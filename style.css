@@ -1,0 +1,27 @@
+.header {
+  width: 99vw;
+  height: 8vh;
+  font-size: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.container {
+  height: 85vh;
+  width: 99vw;
+}
+
+.footer {
+  display: inline;
+}
+
+.footer-text {
+  text-align: center;
+}
+
+.content {
+    height: 20vh;
+    width: 99vw;
+    background-color: rgba(0, 0, 0, 0.082);
+    margin-top: 9px;
+}
