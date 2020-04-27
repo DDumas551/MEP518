@@ -1,0 +1,25 @@
+{
+  "name": "mep518",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDumas551/MEP518.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "david j dumas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDumas551/MEP518/issues"
+  },
+  "homepage": "https://github.com/DDumas551/MEP518#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
